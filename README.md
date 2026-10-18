@@ -1,25 +1,7 @@
-# Cytomata — скачать
+# Cytomata
 
-Cytomata — клеточный автомат живой ткани. Программа показывает, как «поплывёт» ткань, напечатанная на
-биопринтере, и подбирает, сколько сфероидов и куда положить, чтобы закрыть дефект ткани. Опыт виден сразу
-в трёх видах: на плоскости, в объёме и на модели тела человека — там, где работает ткань.
+Living-tissue simulator for bioprinting. Windows 10/11, 64-bit.
 
-## Скачать и установить
+[Download the latest version](https://github.com/KSKBLLT/Cytomata-download/releases/latest)
 
-**[Последняя версия — страница загрузок](https://github.com/KSKBLLT/Cytomata-download/releases/latest)**
-
-1. Скачайте `Cytomata-0.7-Setup.exe` и запустите его. Нужна Windows 10/11 (64 бит); права администратора,
-   Python и командная строка не нужны — подходит и школьный компьютер.
-2. Если Windows пишет «Система Windows защитила ваш компьютер» — «Подробнее» → «Выполнить в любом случае»
-   (программа не подписана платным сертификатом).
-3. Без установки: `Cytomata-0.7.zip` → правый клик → «Извлечь все…» → `Cytomata.exe`.
-
-Контрольные суммы файлов — `SHA256SUMS.txt` на странице загрузок.
-
-## Права
-
-© 2026 KSKBLLT. Все права защищены: программу можно скачивать и пользоваться ею; копировать, изменять
-и распространять её код без разрешения автора нельзя.
-
-Модели тела и органов внутри программы — BodyParts3D, © The Database Center for Life Science (DBCLS),
-лицензия CC BY 4.0: https://dbarchive.biosciencedbc.jp/en/bodyparts3d/
+© 2026 KSKBLLT. All rights reserved. Body models: BodyParts3D © DBCLS, CC BY 4.0.
